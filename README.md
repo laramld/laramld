@@ -3,23 +3,21 @@
 
 ![Lara Denizoglu Banner](https://github.com/laramld/laramld/blob/main/bej%20minimal%20sosyal%20medya%20linkedin%20reklam%20band%C4%B1.png?raw=true)
 
-- 🔭 I’m currently doing **my master’s in Business Analytics at Bayes Business School.**
+- 🔭 I am currently pursuing a **Master’s in Business Analytics at Bayes Business School**.
 
-- 🌱 I’m currently learning **Python, R, and Tableau Public.**
+- 🌱 I am enhancing my skills in **Python, R, and Tableau Public** as part of my academic and professional growth.
 
-- 👯 I’m looking to collaborate with **data scientists from around the world.**
+- 👯 I'm eager to collaborate with **data scientists globally** to exchange knowledge and work on innovative projects.
 
-- 🤝 I’m looking for help with **my upcoming projects.**
+- 🤝 I’m seeking assistance with **upcoming projects** and would appreciate guidance or partnership from experienced professionals.
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 Explore my projects and contributions on [GitHub](https://github.com/laramld).
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 💬 Feel free to inquire about **my experiences and insights in business analytics**.
 
-- 💬 Ask me about **my work in business analytics.**
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lara-denizoglu/).
 
-- 📫 How to reach me **my Linkedin**
-
-- ⚡ Fun fact **I am trilingual**
+- ⚡ A fun fact about me: **I am fluent in three languages: English, French, Turkish**, which enriches my personal and professional interactions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
