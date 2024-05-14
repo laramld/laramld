@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Lara 👩‍💻🗺️
 
-<!--
-**laramld/laramld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Future Business Analyst Candidate
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my master's in Business Analytics at Bayes Business School.
+- 🌱 I’m currently learning Python, R, and Tableau Public.
+- 👯 I’m looking to collaborate with data scientists from around the world.
+- 🤔 I’m looking for help with coding.
+- 💬 Ask me about my work in business analytics.
+- 📫 How to reach me: [My LinkedIn](#) (Add your LinkedIn URL here)
+- 😄 Pronouns: She/Her.
+- ⚡ Fun fact: I am trilingual.
