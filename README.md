@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lara 👩‍💻🗺️</h1>
 <h3 align="center">Future Business Analyst Candidate based in London</h3>
 
-![Lara Denizoğlu Banner](https://github.com/laramld/portfolio/blob/main/bej_minimal_sosyal_medya_linkedin_reklam_bandi.png?raw=true)
+![Lara Denizoglu Banner](https://github.com/laramld/laramld/blob/main/bej%20minimal%20sosyal%20medya%20linkedin%20reklam%20band%C4%B1.png?raw=true)
 
 - 🔭 I’m currently doing **my master’s in Business Analytics at Bayes Business School.**
 
