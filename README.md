@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, I'm Lara 👩‍💻🗺️<br><br>## Future Business Analyst Candidate<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on my master's in Business Analytics at Bayes Business School.<br>- 🌱 I’m currently learning Python, R, and Tableau Public.<br>- 👯 I’m looking to collaborate with data scientists from around the world.<br>- 🤔 I’m looking for help with coding.<br>- 💬 Ask me about my work in business analytics.<br>- 📫 How to reach me: [My LinkedIn](#) (Add your LinkedIn URL here)<br>- 😄 Pronouns: She/Her.<br>- ⚡ Fun fact: I am trilingual.<br>
+### Hi, I'm Lara 👩‍💻🗺️<br><br> Future Business Analyst Candidate<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on my master's in Business Analytics at Bayes Business School.<br>- 🌱 I’m currently learning Python, R, and Tableau Public.<br>- 👯 I’m looking to collaborate with data scientists from around the world.<br>- 🤔 I’m looking for help with coding.<br>- 💬 Ask me about my work in business analytics.<br>- 📫 How to reach me: [My LinkedIn](#) (Add your LinkedIn URL here)<br>- 😄 Pronouns: She/Her.<br>- ⚡ Fun fact: I am trilingual.<br>
 
 
 ## 🌐 Socials:
