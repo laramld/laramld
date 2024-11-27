@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lara 👩‍💻🗺️</h1>
-<h3 align="center">Future Business Analyst Candidate based in London</h3>
+<h3 align="center"> Business Analyst Candidate based in London</h3>
 
 ![Lara Denizoglu Banner](https://github.com/laramld/laramld/blob/main/aboutme.png?raw=true)
 
