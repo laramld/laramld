@@ -3,7 +3,7 @@
 
 ![Lara Denizoglu Banner](https://github.com/laramld/laramld/blob/main/aboutme.png?raw=true)
 
-- 🔭 I am currently pursuing a **Master’s in Business Analytics at Bayes Business School**.
+- 🔭 🎓 I am a recent graduate with a **Master’s in Business Analytics at Bayes Business School**.
 
 - 🌱 I am enhancing my skills in **Python, R, and Tableau Public** as part of my academic and professional growth.
 
